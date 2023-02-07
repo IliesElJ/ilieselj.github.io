@@ -18,12 +18,16 @@ A brief description of your completed projects and the technologies used in them
 ## Education
 
 #### ENSAE Paris ‑ Institut Polytechnique de Paris Paris, France
+
 MSc in Applied Mathematics (Sept 2020 ‑ Current)
+
 • Courses: Econometrics, Statistics, Macroeconomics, Theoratical Foundations of ML, Game Theory, C++, Financial Mathematics, Stochastics
 processes, ...
 
 #### Lycée du Parc Lyon, France
+
 Physics‑Engineering Sciences preparatory classes from September 2018 to May 2020
+
 • Graduated with Distinction
 
 ## Experience
