@@ -1,45 +1,25 @@
-# Ilies EJ
+# Introduction
 
-# Resume
+My name is Ilies El Jaouhari, and I am a Master of Science in Applied Mathematics candidate at École Nationale de la Statistique et de l'Administration Économique (ENSAE) in Paris, France. I am currently a Research Assistant at the Center for Research in Economics and Statistics (CREST). My research interests lie at the intersection of finance and data science, with a focus on developing robust quantitative models and algorithms to analyze financial data. Specifically, I am interested in exploring innovative statistical and machine learning techniques to gain insights into financial markets and create effective investment strategies.
 
-## About 
+# Projects
+Here are some of the projects that I've worked on:
 
-A Master’s student at ENSAE Paris (Institut Polytechnique de Paris), undertaking Data Science and Applied Mathematics . Zealous about software engineering and with 1+ years
-of experience specialising in machine learning, python development, algorithms.
+- **[With QuantCube Technology, Predicting movements in the foreign exchange market](https://github.com/yourusername/project1)**: In this project, we used Python to predict movements in the foreign exchange market by analyzing the statistical impact of several macroeconomic variables (provided by QuantCube) on currency exchange rates. We conducted statistical tests to identify the most significant variables and developed trading strategies based on our insights. We evaluated the effectiveness of these strategies through backtesting. The goal of this project was to explore the potential of using quantitative methods to improve foreign exchange trading strategies.
+- **[Gross Industrial Production Index Forecasting with SARIMA Models](https://github.com/yourusername/project2)**: This project involved studying and predicting the gross industrial production index time series using SARIMA models. We analyzed the
+- **[Modeling Market Regimes using GMM](https://github.com/yourusername/project3)**: This project involved using GMM to model market regimes in various financial markets by using statistical tests, AIC and BIC to determine the optimal number of regimes and the appropriate parameters for the GMM models. I then used the GMM to identify different market regimes (in the case of the 2 Gaussian distributions: High/Low volatility regimes). The goal of this project was to develop a reliable framework for modeling market regimes.
 
-## Skills
 
-A list of your technical and non-technical skills, such as programming languages, tools, and communication skills.
 
-## Projects
+# Skills
+Here are some of the skills that I have developed:
 
-A brief description of your completed projects and the technologies used in them.
+- Programming languages: Python, R, MATLAB
+- Statistical analysis: Regression analysis, Time series analysis, Hypothesis testing
+- Machine learning: Supervised learning, Unsupervised learning, Deep learning
+- Financial modeling: Option pricing, Portfolio optimization, Risk management
 
-## Education
-
-#### ENSAE Paris ‑ Institut Polytechnique de Paris Paris, France
-
-MSc in Applied Mathematics (Sept 2020 ‑ Current)
-
-• Courses: Econometrics, Statistics, Macroeconomics, Theoratical Foundations of ML, Game Theory, C++, Financial Mathematics, Stochastics
-processes, ...
-
-#### Lycée du Parc Lyon, France
-
-Physics‑Engineering Sciences preparatory classes from September 2018 to May 2020
-
-• Graduated with Distinction
-
-## Experience
-
-- List of your work experience, including the companies you have worked for and the positions held.
-
-## Contact
-
-- Your contact information, including your email address and LinkedIn profile link.
-
-## Additional Information
-
-- Any additional information you would like to include, such as awards, certifications, or extracurricular activities.
+# Contact
+If you have any questions or would like to collaborate on a project, feel free to contact me at [ilies.eljaouhari@ensae.fr].
 
 
