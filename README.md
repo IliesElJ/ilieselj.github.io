@@ -23,6 +23,6 @@ Here are some of the skills that I have developed during school or on personal p
 - Quantitative finance: Experience analyzing and backtesting trading strategies on multi-asset portfolios in Python on **[QuantConnect](https://www.quantconnect.com/)**, and running them live.
 
 # Contact
-If you have any questions or would like to collaborate on a project, feel free to contact me at **(ilies.eljaouhari@ensae.fr)**.
+If you have any questions or would like to collaborate on a project, feel free to contact me at **ilies.eljaouhari@ensae.fr**.
 
 
