@@ -14,12 +14,13 @@ Here are some of the projects that I've worked on:
 
 
 # Skills
-Here are some of the skills that I have developed:
+Here are some of the skills that I have developed during school or on personal projects:
 
 - Programming languages: Python, R, MATLAB
 - Statistical analysis: Regression analysis, Time series analysis, Hypothesis testing
 - Machine learning: Supervised learning, Unsupervised learning, Deep learning
 - Financial modeling: Option pricing, Portfolio optimization, Risk management
+- Quantitative finance: Experience analyzing and backtesting trading strategies on multi-asset portfolios in Python on **[QuantConnect](https://www.quantconnect.com/)**, and running them live."
 
 # Contact
 If you have any questions or would like to collaborate on a project, feel free to contact me at [ilies.eljaouhari@ensae.fr].
