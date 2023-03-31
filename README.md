@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Ilies El Jaouhari, and I am a Master of Science in Applied Mathematics candidate at École Nationale de la Statistique et de l'Administration Économique (ENSAE) in Paris, France. I am currently a Research Assistant at the Center for Research in Economics and Statistics (CREST). My research interests lie at the intersection of finance and data science, with a focus on developing robust quantitative models and algorithms to analyze financial data. Specifically, I am interested in exploring innovative statistical and machine learning techniques to gain insights into financial markets and create effective investment strategies.
+My name is Ilies El Jaouhari, and I am a Master of Science in Applied Mathematics candidate at École Nationale de la Statistique et de l'Administration Économique (ENSAE) in Paris, France. I am currently a Research Assistant at the Center for Research in Economics and Statistics (CREST) working on the benign overfitting phenomenon in classification models. My research interests lie at the intersection of finance and data science, with a focus on developing robust quantitative models and algorithms to analyze financial data. Specifically, I am interested in exploring innovative statistical and machine learning techniques to gain insights into financial markets and create effective investment strategies.
 
 # Projects
 Here are some of the projects that I've worked on:
