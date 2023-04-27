@@ -2,6 +2,15 @@
 
 My name is Ilies El Jaouhari, and I am a Master of Science in Applied Mathematics candidate at École Nationale de la Statistique et de l'Administration Économique (ENSAE) in Paris, France. I am currently a Research Assistant at the Center for Research in Economics and Statistics (CREST) working on the benign overfitting phenomenon in classification models. My research interests lie at the intersection of finance and data science, with a focus on developing robust quantitative models and algorithms to analyze financial data. Specifically, I am interested in exploring innovative statistical and machine learning techniques to gain insights into financial markets and create effective investment strategies.
 
+# Experience
+
+- **[ENSAE, CREST](https://crest.science/)** (Research Assistant): Under the supervision, I am focusing on developing  bounds for excess risk of classification estimators.
+
+- **[Ardian Infrastructure](https://www.ardian.com/fr/infrastructure)** (Data Science Intern): Worked on Data Science projets linked to assets from Ardian Infrastructure’s portfolio on Microsoft Azure. Built and deployed models estimating
+the expected energy production of numerous Italian and Spanish wind farms in the short‑term, using neural networks and gradient boosting
+algorithms on production signals and weather forecasts from ECMWF. Worked on the estimation of the total carbon emissions from Portuguese
+highway networks following state‑of‑art methodology.
+
 # Projects
 Here are some of the projects that I've worked on:
 
