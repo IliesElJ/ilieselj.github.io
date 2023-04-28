@@ -4,7 +4,7 @@ My name is Ilies El Jaouhari, and I am a Master of Science in Applied Mathematic
 
 # Experience
 
-- **[ENSAE, CREST](https://crest.science/)** (Research Assistant): Under the supervision, I am focusing on developing  bounds for excess risk of classification estimators.
+- **[ENSAE, CREST](https://crest.science/)** (Research Assistant): Under the supervision of Guillaume Lecué, I am focusing on developing  bounds for excess risk of classification estimators.
 
 - **[Ardian Infrastructure](https://www.ardian.com/fr/infrastructure)** (Data Science Intern): Worked on Data Science projets linked to assets from Ardian Infrastructure’s portfolio on Microsoft Azure. Built and deployed models estimating
 the expected energy production of numerous Italian and Spanish wind farms in the short‑term, using neural networks and gradient boosting
