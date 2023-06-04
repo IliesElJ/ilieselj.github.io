@@ -1,78 +1,38 @@
-<div align="center">
-  
-  # Ilies El Jaouhari 
-  
-  ## Master of Science in Applied Mathematics | Data Scientist | Quantitative Analyst
+# Introduction
 
-</div>
+My name is Ilies El Jaouhari, and I am a Master of Science in Applied Mathematics candidate at École Nationale de la Statistique et de l'Administration Économique (ENSAE) in Paris, France. I am currently a Research Assistant at the Center for Research in Economics and Statistics (CREST) working on the benign overfitting phenomenon in classification models. My research interests lie at the intersection of finance and data science, with a focus on developing robust quantitative models and algorithms to analyze financial data. Specifically, I am interested in exploring innovative statistical and machine learning techniques to gain insights into financial markets and create effective investment strategies.
 
-<hr>
+# Experience
 
-<p align="center">
-  <img src="https://github.com/IliesElJ/ilieselj.github.io/blob/master/images/profile-pic.jpg" alt="Ilies El Jaouhari" height="200" />
-</p>
+- **[ENSAE, CREST](https://crest.science/)** (Research Assistant): Under the supervision of Guillaume Lecué, I am focusing on developing  bounds for excess risk of classification estimators.
 
-<div align="center">
-  <a href="https://github.com/IliesElJ">Github</a> •
-  <a href="https://www.linkedin.com/in/ilies-el-jaouhari">LinkedIn</a> •
-  <a href="mailto:ilies.eljaouhari@ensae.fr">Email</a>
-</div>
+- **[Ardian Infrastructure](https://www.ardian.com/fr/infrastructure)** (Data Science Intern): Worked on Data Science projets linked to assets from Ardian Infrastructure’s portfolio on Microsoft Azure. Built and deployed models estimating
+the expected energy production of numerous Italian and Spanish wind farms in the short‑term, using neural networks and gradient boosting
+algorithms on production signals and weather forecasts from ECMWF. Worked on the estimation of the total carbon emissions from Portuguese
+highway networks following state‑of‑art methodology.
 
-<hr>
+# Projects
+Here are some of the projects that I've worked on:
 
-## 🎓 Introduction
-
-Hi there! My name is **Ilies El Jaouhari**, a Master of Science in Applied Mathematics candidate at [ENSAE](https://www.ensae.fr/en/) in Paris, France. I'm also a Research Assistant at the Center for Research in Economics and Statistics ([CREST](https://crest.science/)), where I'm investigating the benign overfitting phenomenon in classification models. I'm passionate about finance and data science, particularly in creating robust quantitative models and algorithms for financial data analysis.
-
-I'm intrigued by the potential of innovative statistical and machine learning techniques in uncovering insights into financial markets and devising effective investment strategies. You can find more about my work and experiences below.
-
-<hr>
-
-## 💼 Experience
-
-#### 🔬 Research Assistant | [ENSAE, CREST](https://crest.science/)
-> Under the mentorship of Guillaume Lecué, my work revolves around developing bounds for excess risk in classification estimators.
-
-#### 📊 Data Science Intern | [Ardian Infrastructure](https://www.ardian.com/fr/infrastructure)
-> My role included building models for short-term expected energy production at several Italian and Spanish wind farms using neural networks and gradient boosting. Additionally, I worked on estimating the total carbon emissions from Portuguese highway networks using state-of-the-art methodologies.
-
-<hr>
-
-## 🎨 Projects
-<div align="center">
-  
-#### [Predicting movements in the foreign exchange market with QuantCube Technology](https://github.com/IliesElJ/Forex)
-  
+- **[With QuantCube Technology, Predicting movements in the foreign exchange market](https://github.com/IliesElJ/Forex)**: In this project, we used Python to predict movements in the foreign exchange market by analyzing the statistical impact of several macroeconomic variables (provided by QuantCube) on currency exchange rates. We conducted statistical tests to identify the most significant variables and developed trading strategies based on our insights. We evaluated the effectiveness of these strategies through backtesting using Pyfolio, Zipline and Quantopian libraries. The goal of this project was to explore the potential of using quantitative methods to improve foreign exchange trading strategies.
 ![Predicting movements in the foreign exchange market](forex.png)
-
-#### [Gross Industrial Production Index Forecasting with SARIMA Models](https://github.com/IliesElJ/SARIMA)
-  
+- **[Gross Industrial Production Index Forecasting with SARIMA Models](https://github.com/IliesElJ/SARIMA)**: This project involved stationnarizing, fitting and predicting the gross industrial production index time series using SARIMA models. We analyzed the data for seasonality and trends, and selected appropriate parameters for the SARIMA models based on autocorrelation/partial autocorrelation plots and Akaike/Bayesian information criterions. We used the fitted models to make forecasts for future time periods and evaluated their accuracy through backtesting. The goal of this project was to develop a reliable forecasting model for the gross industrial production index time series.
 ![Gross Industrial Production Index](sarima.png)
-
-#### [Modeling Market Regimes using GMM](https://github.com/yourusername/project3)
-
+- **[Modeling Market Regimes using GMM](https://github.com/yourusername/project3)**: This project involved using GMM to model market regimes in various financial markets by using statistical tests, AIC and BIC to determine the optimal number of regimes and the appropriate parameters for the GMM models. I then used the GMM to identify different market regimes (in the case of the 2 Gaussian distributions: High/Low volatility regimes). The goal of this project was to develop a reliable framework for modeling market regimes.
 ![Market condition probabilities for the period Jul 2015 - Mar 2019](gmm.png)
 
-</div>
 
-<hr>
 
-## 💡 Skills
+# Skills
+Here are some of the skills that I have developed during school or on personal projects:
 
-- **Programming languages:** Python, R, MATLAB
-- **Statistical analysis:** Regression analysis, Time series analysis, Hypothesis testing
-- **Machine learning:** Supervised learning, Unsupervised learning, Deep learning
-- **Financial modeling:** Option pricing, Portfolio optimization, Risk management
-- **Quantitative finance:** Experience analyzing and backtesting trading strategies on multi-asset portfolios in Python on **[QuantConnect](https://www.quantconnect.com/)**, and running them live.
+- Programming languages: Python, R, MATLAB
+- Statistical analysis: Regression analysis, Time series analysis, Hypothesis testing
+- Machine learning: Supervised learning, Unsupervised learning, Deep learning
+- Financial modeling: Option pricing, Portfolio optimization, Risk management
+- Quantitative finance: Experience analyzing and backtesting trading strategies on multi-asset portfolios in Python on **[QuantConnect](https://www.quantconnect.com/)**, and running them live.
 
-<hr>
+# Contact
+If you have any questions or would like to collaborate on a project, feel free to contact me at **ilies.eljaouhari@ensae.fr**.
 
-## 📫 Contact
-Interested in collaborating or just have a question? Feel free to contact me at **ilies.eljaouhari@ensae.fr**.
 
-<div align="center">
-
-  **Ilies El Jaouhari**<br>
-  ENSAE | CREST
-  
-</div>
